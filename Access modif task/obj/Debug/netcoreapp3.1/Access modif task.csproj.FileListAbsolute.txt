@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\access modifies\Access modif task\bin\Debug\netcoreapp3.1\Access modif task.exe
+C:\Users\LENOVO\Desktop\access modifies\Access modif task\bin\Debug\netcoreapp3.1\Access modif task.deps.json
+C:\Users\LENOVO\Desktop\access modifies\Access modif task\bin\Debug\netcoreapp3.1\Access modif task.runtimeconfig.json
+C:\Users\LENOVO\Desktop\access modifies\Access modif task\bin\Debug\netcoreapp3.1\Access modif task.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\access modifies\Access modif task\bin\Debug\netcoreapp3.1\Access modif task.dll
+C:\Users\LENOVO\Desktop\access modifies\Access modif task\bin\Debug\netcoreapp3.1\Access modif task.pdb
+C:\Users\LENOVO\Desktop\access modifies\Access modif task\obj\Debug\netcoreapp3.1\Access modif task.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\access modifies\Access modif task\obj\Debug\netcoreapp3.1\Access modif task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\access modifies\Access modif task\obj\Debug\netcoreapp3.1\Access modif task.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\access modifies\Access modif task\obj\Debug\netcoreapp3.1\Access modif task.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\access modifies\Access modif task\obj\Debug\netcoreapp3.1\Access modif task.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\access modifies\Access modif task\obj\Debug\netcoreapp3.1\Access modif task.dll
+C:\Users\LENOVO\Desktop\access modifies\Access modif task\obj\Debug\netcoreapp3.1\Access modif task.pdb
+C:\Users\LENOVO\Desktop\access modifies\Access modif task\obj\Debug\netcoreapp3.1\Access modif task.genruntimeconfig.cache
